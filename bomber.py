@@ -24,7 +24,7 @@ from telegram.ext import (
 BOT_TOKEN = '8961489153:AAFkJBs9nH1SaOqjBKh2bU5E2si0RAD7VeU'
 
 OWNER_USERNAME = '@deathalive07'
-OWNER_ID = None  # resolved at boot
+OWNER_ID = 8646237754
 
 CHANNELS = [
     {'name': 'Trusted Backup',  'url': 'https://t.me/trusteddealers_07', 'username': '@trusteddealers_07'},
